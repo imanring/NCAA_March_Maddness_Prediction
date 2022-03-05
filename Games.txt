@@ -1,0 +1,97 @@
+Fairleigh Dickinson,
+Gonzaga,1
+Baylor,
+Syracuse,0
+Vermont,
+Florida St.,1
+Murray St.,
+Marquette,0
+Arizona St.,
+Buffalo,1
+Northern Ky.,
+Texas Tech,1
+Florida,
+Nevada,0
+Montana,
+Michigan,1
+Belmont,
+Maryland,1
+Yale,
+LSU,1
+Minnesota,
+Louisville,0
+Bradley,
+Michigan St.,1
+North Dakota St.,
+Duke,1
+UCF,
+VCU,0
+Liberty,
+Mississippi St.,0
+Saint Louis,
+Virginia Tech,1
+New Mexico St.,
+Auburn,1
+Northeastern,
+Kansas,1
+Washington,
+Utah St.,0
+Iona,
+North Carolina,1
+Abilene Christian,
+Kentucky,1
+Seton Hall,
+Wofford,1
+Georgia St.,
+Houston,1
+Ohio St.,
+Iowa St.,0
+Saint Mary's (CA),
+Villanova,1
+Old Dominion,
+Purdue,1
+Iowa,
+Cincinnati,0
+Colgate,
+Tennessee,1
+Oklahoma,
+Ole Miss,0
+Gardner-Webb,
+Virginia,1
+UC Irvine,
+Kansas St.,1
+Oregon,
+Wisconsin,1
+
+Baylor,
+Gonzaga,1
+Murray St.,
+Florida St.,1
+Buffalo,
+Texas Tech,1
+Florida,
+Michigan,1
+Maryland,
+LSU,1
+Minnesota,
+Michigan St.,1
+UCF,
+Duke,1
+Liberty,
+Virginia Tech,1
+Auburn,
+Kansas,0
+Washington,
+North Carolina,1
+Wofford,
+Kentucky,1
+Ohio St.,
+Houston,1
+Villanova,
+Purdue,1
+Iowa,
+Tennessee,1
+Oklahoma,
+Virginia,1
+UC Irvine,
+Oregon,1
