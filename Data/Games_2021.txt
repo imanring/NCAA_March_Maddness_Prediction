@@ -1,0 +1,48 @@
+Texas Southern,
+Michigan,1
+St. Bonaventure,
+LSU,1
+Georgetown,
+Colorado,1
+UNC Greensboro,
+Florida St.,1
+UCLA,
+BYU,0
+Abilene Christian,
+Texas,0
+Iona,
+Alabama,1
+Maryland,
+UConn,0
+Drake,
+Southern California,1
+Eastern Wash.,
+Kansas,1
+Grand Canyon,
+Iowa,1
+Norfolk St.,
+Gonzaga,1
+Missouri,
+Oklahoma,1
+UC Santa Barbara,
+Creighton,1
+Ohio,
+Virginia,0
+Virginia Tech,
+Florida,1
+Oral Roberts,
+Ohio St.,0
+Colgate,
+Arkansas,1
+Utah St.,
+Texas Tech,1
+Hartford,
+Baylor,1
+Wisconsin,
+North Carolina,0
+North Texas,
+Purdue,0
+Winthrop,
+Villanova,1
+Drexel,
+Illinois,1
